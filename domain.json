@@ -1,10 +1,12 @@
 {
   "iosGithubDomains": [
     "https://d39xyf0qqnkwzh.cloudfront.net/?appId=151",
-    "https://d14z5idfmqul81.cloudfront.net/?appId=151"
+    "https://d14z5idfmqul81.cloudfront.net/?appId=151",
+    "https://dpnvavizt8mbb.cloudfront.net/?appId=151"
   ],
   "androidGithubDomains": [
     "https://d17453e3u267dn.cloudfront.net/?appId=151",
-    "https://d1kmz1fpfgmiqb.cloudfront.net/?appId=151"
+    "https://d1kmz1fpfgmiqb.cloudfront.net/?appId=151",
+    "https://d2rk1xzvf2qvjj.cloudfront.net/?appId=151"
   ]
 }
